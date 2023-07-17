@@ -1,0 +1,15 @@
+/home/coscristian/Documents/compilers/minsk/mc/bin/Debug/net7.0/mc
+/home/coscristian/Documents/compilers/minsk/mc/bin/Debug/net7.0/mc.deps.json
+/home/coscristian/Documents/compilers/minsk/mc/bin/Debug/net7.0/mc.runtimeconfig.json
+/home/coscristian/Documents/compilers/minsk/mc/bin/Debug/net7.0/mc.dll
+/home/coscristian/Documents/compilers/minsk/mc/bin/Debug/net7.0/mc.pdb
+/home/coscristian/Documents/compilers/minsk/mc/obj/Debug/net7.0/mc.csproj.AssemblyReference.cache
+/home/coscristian/Documents/compilers/minsk/mc/obj/Debug/net7.0/mc.GeneratedMSBuildEditorConfig.editorconfig
+/home/coscristian/Documents/compilers/minsk/mc/obj/Debug/net7.0/mc.AssemblyInfoInputs.cache
+/home/coscristian/Documents/compilers/minsk/mc/obj/Debug/net7.0/mc.AssemblyInfo.cs
+/home/coscristian/Documents/compilers/minsk/mc/obj/Debug/net7.0/mc.csproj.CoreCompileInputs.cache
+/home/coscristian/Documents/compilers/minsk/mc/obj/Debug/net7.0/mc.dll
+/home/coscristian/Documents/compilers/minsk/mc/obj/Debug/net7.0/refint/mc.dll
+/home/coscristian/Documents/compilers/minsk/mc/obj/Debug/net7.0/mc.pdb
+/home/coscristian/Documents/compilers/minsk/mc/obj/Debug/net7.0/mc.genruntimeconfig.cache
+/home/coscristian/Documents/compilers/minsk/mc/obj/Debug/net7.0/ref/mc.dll
